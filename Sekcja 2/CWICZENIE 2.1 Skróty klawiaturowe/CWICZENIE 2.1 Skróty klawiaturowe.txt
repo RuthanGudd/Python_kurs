@@ -1,0 +1,21 @@
+ÆWICZENIE:
+
+Operacje kopiowania/wklejania mo¿esz wykonywaæ myszk¹ lub szybciej z pomoc¹ klawiatury.
+
+Na samym starcie, gdy uczysz siê skrótów mo¿esz czuæ dyskomfort, poniewa¿ korzystanie ze skrótów mo¿e wydawaæ siê wolniejsze, bo wymaga to od Ciebie zasiêgniêcia do pamiêci.
+
+Jednak, gdy bêdziesz korzysta³ z tych skrótów czêsto to w koñcu np. kopiowanie i zaznaczenie tekstu bêdzie dzia³o siê "samo", poniewa¿ Twój mózg przyzwyczai siê do operacji zwi¹zanych ze skrótami klawiaturowymi. 
+
+Zaczniesz korzystaæ ze skrótów klawiaturowych podœwiadomie, co sprawi, ¿e zaoszczêdzisz ogromn¹ iloœæ czasu w przysz³oœci. Korzystanie z podstawowych skrótów jest naprawdê bardzo wa¿ne.
+
+Jako æwiczenie skopiuj i wklej do swojego programu 10x z pliku tekstowego, który czytasz poni¿sz¹ instrukcjê:
+
+print("To jest testowy test o niczym")
+
+Korzystaj¹c wy³¹cznie z klawiatury. WyobraŸ sobie, ¿e ktoœ od³¹czy³ Ci myszkê i masz do dyspozycji jedynie skróty, które pozna³eœ w lekcji. Nie mo¿esz nawet zaznaczyæ tekstu myszk¹. Pamiêtaj, masz tylko do dyspozycji klawiaturê.
+
+Aby te skróty, które u¿yjesz w tej lekcji wesz³y Ci do pamiêci powtarzaj te lekcje 1x dziennie przez nastêpny tydzieñ :)
+
+Powodzenia!
+
+PodpowiedŸ: ALT + TAB - pozwala przeskakiwaæ pomiêdzy ró¿nymi programami.
