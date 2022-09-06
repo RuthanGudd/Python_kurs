@@ -1,0 +1,19 @@
+Working        https://www.youtube.com/
+Working        https://open.spotify.com/
+Not Working    https://open.spotify.com/asetqWAESGFwef
+Not Working    https://allegro.pl/
+Not Working    https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/learn/lecture/12178872#questions
+Working        https://login.wsb.pl/cas/login?service=https%3A%2F%2Fportal.wsb.pl%2Fc%2Fportal%2Flogin%3Fredirect%3D%252Fgroup%252Fgdansk%26refererPlid%3D3639%26p_l_id%3D20145
+Working        https://github.com/
+Not Working    https://open.spotify.com/weqrtqwsadgaw4ertg
+Working        https://nofluffjobs.com/pl
+Working        https://www.pracuj.pl/
+Not Working    https://open.spotify.com/asdsdqwqwd
+Working        https://justjoin.it/
+Working        https://czlowiekuruszsie.pl/kurs/mobilne-cialo-2-0/
+Working        https://globle-game.com/
+Not Working    https://open.spotify.com/asdsdqwqwd
+Working        https://worldle.teuteuf.fr/
+Working        https://www.reddit.com/user/ArtificialZero/comments/elpyhl/how_to_pirate_microsoft_office_2019/
+Not Working    https://open.spotify.com/asdfasdf
+Not Working    https://open.spotify.com/asdsdqwqwd
